@@ -1,0 +1,60 @@
+2021-12-13 14:17:09 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-12-13 14:17:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2021-12-13 14:17:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2021-12-13 14:17:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2021-12-13 14:17:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2021-12-13 14:17:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2021-12-13 14:17:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2021-12-13 14:17:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2021-12-13 14:17:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2021-12-13 14:17:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2021-12-13 14:17:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2021-12-13 14:17:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2021-12-13 14:17:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2021-12-13 14:17:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2021-12-13 14:17:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2021-12-13 14:17:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2021-12-13 14:17:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2021-12-13 14:17:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 73 flow
+2021-12-13 14:17:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 72 flow
+2021-12-13 14:17:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 73 flow
+2021-12-13 14:17:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 73 flow
+2021-12-13 14:18:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 74 flow
+2021-12-13 14:18:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 74 flow
+2021-12-13 14:18:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 76 flow
+2021-12-13 14:18:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 76 flow
+2021-12-13 14:18:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 82 flow
+2021-12-13 14:18:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 89 flow
+2021-12-13 14:18:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 91 flow
+2021-12-13 14:18:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 91 flow
+2021-12-13 14:18:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 91 flow
+2021-12-13 14:18:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 92 flow
+2021-12-13 14:18:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 94 flow
+2021-12-13 14:18:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 94 flow
+2021-12-13 14:18:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 96 flow
+2021-12-13 14:18:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 96 flow
+2021-12-13 14:18:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
+2021-12-13 14:18:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
+2021-12-13 14:18:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
+2021-12-13 14:18:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2021-12-13 14:18:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2021-12-13 14:18:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
+2021-12-13 14:18:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 107 flow
+2021-12-13 14:18:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 107 flow
+2021-12-13 14:18:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 111 flow
+2021-12-13 14:18:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 112 flow
+2021-12-13 14:18:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 112 flow
+2021-12-13 14:18:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 119 flow
+2021-12-13 14:19:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 125 flow
+2021-12-13 14:19:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 125 flow
+2021-12-13 14:19:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 131 flow
+2021-12-13 14:19:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 131 flow
+2021-12-13 14:19:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 130 flow
+2021-12-13 14:19:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 131 flow
+2021-12-13 14:19:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 132 flow
+2021-12-13 14:19:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 132 flow
+2021-12-13 14:19:21 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-12-13 14:19:21 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-12-13_Flow.csv
+2021-12-13 14:19:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 133 flow
+2021-12-13 14:19:22 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2021-12-13 14:19:33 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-12-13_Flow.csv

@@ -1,0 +1,7 @@
+2021-12-15 16:30:15 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-12-15 16:30:37 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-12-15 16:30:37 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-12-15_Flow.csv
+2021-12-15 16:30:47 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-12-15 16:32:03 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-12-15 16:32:03 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-12-15_Flow.csv
+2021-12-15 16:32:05 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-12-15_Flow.csv
